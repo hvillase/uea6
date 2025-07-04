@@ -1,1 +1,1 @@
-console.log("Arte Interactivo");
+console.log("Arte Interactivo: mi proyecto");

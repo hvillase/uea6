@@ -5,3 +5,12 @@
 body{
     background-color: #ff0099;
 }
+
+p{
+    color: #222222;
+    font-size: 30px;
+}
+
+div{
+    background-color: aliceblue;
+}
